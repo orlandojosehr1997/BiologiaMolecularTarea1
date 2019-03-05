@@ -1,6 +1,6 @@
 # BiologiaMolecularTarea1
-3.a Programas Utilitarios (para trabajar con texto plano tipo UTF-8): manejo de cadenas de texto de entrada, parametrizable, tener soporte para trabajar con archivos de entrada y salida.
 
+3.a Programas Utilitarios (para trabajar con texto plano tipo UTF-8): manejo de cadenas de texto de entrada, parametrizable, tener soporte para trabajar con archivos de entrada y salida.
 		- 3 generadores de números aleatorios, basados en distribuciones de probabilidad: Poisson, Normal y lineal.
 		- verificador ADN : solo letras A, C, T, G, no espacios ni caracteres extraños. Recibe un texto de entrada, hilera o archivo, y verifica que el contenido sean solo A, C, T o G
 		- verificador ARN : solo letras A, C, U, G, no espacios ni caracteres extraños. Idem, para A, C, U, G.
